@@ -10,7 +10,7 @@
         android:id="@+id/btnToast"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="두번째 프래그먼트 토스트"
+        android:text="두번째 프래그먼트 토스트"/>
 
 
 </LinearLayout>
